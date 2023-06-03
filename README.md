@@ -1,37 +1,45 @@
-<h1 style="color: #FFE81F;">Добро пожаловать в галактику [твоё имя]</h1>
+# Добро пожаловать в галактику CRYPTAN
 
-<h2 style="color: #FFE81F;">Эпизод I: Обо мне</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/.../star-wars-banner.jpg" alt="Star Wars Banner">
+</div>
 
-<p style="color: #FFFFFF;">Здравствуйте, Падаваны. Меня зовут [твоё имя], я - разработчик из [город/страна]. Моя специализация - это [твоя специализация].</p>
+## Эпизод I: Обо мне
 
-<h2 style="color: #FFE81F;">Эпизод II: Навыки</h2>
+Здравствуйте, Падаваны. Меня зовут [твоё имя], я - разработчик из [город/страна]. Моя специализация - это [твоя специализация].
 
-<p style="color: #FFFFFF;">Я владею Силой следующих технологий:</p>
+## Эпизод II: Навыки
 
-<ul style="color: #FFFFFF;">
-  <li>Меч света: [Язык программирования]</li>
-  <li>Сила: [Фреймворк/Библиотека]</li>
-  <li>Йода: [База данных]</li>
-  <li>Темная сторона: [Еще один навык]</li>
-</ul>
+Я владею Силой следующих технологий:
 
-<h2 style="color: #FFE81F;">Эпизод III: Проекты</h2>
+- Меч света: <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <div/>
+- Сила: <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <div/>
+- Йода: <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <div/>
+- Темная сторона: [Еще один навык]
 
-<p style="color: #FFFFFF;">Вот некоторые из моих проектов, которые я разработал:</p>
+## Эпизод III: Проекты
 
-<ul style="color: #FFFFFF;">
-  <li><a href="ссылка на проект" style="color: #B0E0E6;">[Название проекта 1]</a> - [Краткое описание проекта]</li>
-  <li><a href="ссылка на проект" style="color: #B0E0E6;">[Название проекта 2]</a> - [Краткое описание проекта]</li>
-</ul>
+Вот некоторые из моих проектов, которые я разработал:
 
-<h2 style="color: #FFE81F;">Эпизод IV: Как со мной связаться</h2>
+- [Название проекта 1](ссылка на проект) - [Краткое описание проекта]
+- [Название проекта 2](ссылка на проект) - [Краткое описание проекта]
 
-<p style="color: #FFFFFF;">Если вы хотите связаться со мной или просто обсудить Star Wars, вы можете найти меня здесь:</p>
+## Эпизод IV: Как со мной связаться
 
-<ul style="color: #FFFFFF;">
-  <li><a href="ссылка на профиль LinkedIn" style="color: #B0E0E6;">LinkedIn</a></li>
-  <li><a href="mailto:твой адрес электронной почты" style="color: #B0E0E6;">Email</a></li>
-</ul>
+Если вы хотите связаться со мной или просто обсудить Star Wars, вы можете найти меня здесь:
 
-<p style="color: #FFFFFF;"><i>Помни, Сила всегда будет с тобой!</i></p>
+[![Website](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://cryptan.tilda.ws/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.motorin@gmail.com)
+
+_Помни, Сила всегда будет с тобой!_
+
 
