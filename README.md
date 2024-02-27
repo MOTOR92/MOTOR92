@@ -1,24 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTIxeXRjaXR0cHhlazVkaXpuZHZkaDhyMm9ldHdmZzJzZG5qamtqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DYAkutguJlZXQiucKL/giphy.gif" width="100"/>
-</div>
-<div id="header" align="center">
-  <a href="https://t.me/my_event_horizon">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://twitter.com/MrMotorin">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://medium.com/@my_event_horizon">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=motor92&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://imgur.com/8KdrEr8.png">
+</div>
+<div>
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+![](https://komarev.com/ghpvc/?username=motor92&style=flat-square&color=blueviolet)
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRrZ2k5b2t6dzY5NmVyZXZvcmVic2s2dHdxMHk0ZTNpbDh3cHdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="30">
 
@@ -70,3 +60,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5M
 - [5ire](https://medium.com/@my_event_horizon/5ire-12b73d059bca?source=rss-d862d5b013d0------2)
 - [Установка ноды Exorde](https://medium.com/@my_event_horizon/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BD%D0%BE%D0%B4%D1%8B-exorde-481106dc934c?source=rss-d862d5b013d0------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### :link: My link :
+<div>
+  <a href="https://t.me/my_event_horizon">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://twitter.com/MrMotorin">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://medium.com/@my_event_horizon">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
+
