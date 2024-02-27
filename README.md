@@ -8,7 +8,7 @@
   <a href="https://twitter.com/MrMotorin">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://medium.com/@mr.motorin">
+  <a href="https://medium.com/@my_event_horizon">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
