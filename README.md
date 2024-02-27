@@ -65,5 +65,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5M
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-
+- [Test post](https://medium.com/@my_event_horizon/test-post-d132e8b5844e?source=rss-d862d5b013d0------2)
+- [Taiko Alpha-2 Node Guide | Таико гайд по ноде](https://medium.com/@my_event_horizon/taiko-alpha-2-node-guide-%D1%82%D0%B0%D0%B8%D0%BA%D0%BE-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%B4%D0%B5-473b1c4305a6?source=rss-d862d5b013d0------2)
+- [Taiko Node Guide | Таико гайд по ноде](https://medium.com/@my_event_horizon/taiko-node-guide-%D1%82%D0%B0%D0%B8%D0%BA%D0%BE-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%B4%D0%B5-84c092cfb082?source=rss-d862d5b013d0------2)
+- [5ire](https://medium.com/@my_event_horizon/5ire-12b73d059bca?source=rss-d862d5b013d0------2)
 <!-- BLOG-POST-LIST:END -->
